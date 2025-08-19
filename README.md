@@ -8,7 +8,7 @@ Built with **React, TailwindCSS, Framer Motion**, and deployed on **GitHub Pages
 ---
 
 ## 🌍 Live Demo
-🔗 [Click here to visit the site](https://YOUR_USERNAME.github.io/unsolved-mysteries-site/)  
+🔗 [Click here to visit the site](https://YOUR_akosuaaddaebuapim-hash.github.io/unsolved-mysteries-site/)  
 
 ---
 
@@ -35,5 +35,5 @@ Built with **React, TailwindCSS, Framer Motion**, and deployed on **GitHub Pages
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/unsolved-mysteries-site.git
+   git clone https://github.com/akosuaaddaebuapim-hash/unsolved-mysteries-site.git
    cd unsolved-mysteries-site
